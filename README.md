@@ -61,7 +61,7 @@
 
     <section>
         <h2>About Me</h2>
-        <img src="Picsart_24-05-17_00-54-42-723.jpg"width= 200 height=200 alt="Profile Picture" />
+        <img src="FB_IMG_1733567894729.jpg"width= 200 height=200 alt="Profile Picture" />
         <p>Hello! My name is Mark Owen Sabanal.</p>
         
         <div class="hobbies">
